@@ -43,11 +43,25 @@ https://jupyter.readthedocs.io/en/latest/install.html
 
 ### Running the files
 
-The code is ready to be used and just requires running the following command:
+The notebook 'Get_coin_data.ipynb' can be directly opened on GitHub, but only the Python code will be visible, as most of its content is written in HTML format. To open the notebook, it is better to run the Jupyter Notebook. This can be done by executing the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
 
-http://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-data/blob/master/Get_coin_data.html
+    jupyter notebook
 
-<a href="http://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-data/blob/master/Get_coin_data.html">HMTL preview of the notebook</a>
+This will print some information about the notebook server in your terminal, including the URL of the web application (by default, http://localhost:8888):
+
+    $ jupyter notebook
+    [I 08:58:24.417 NotebookApp] Serving notebooks from local directory: /Users/catherine
+    [I 08:58:24.417 NotebookApp] 0 active kernels
+    [I 08:58:24.417 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/
+    [I 08:58:24.417 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+
+It will then open your default web browser to this URL.
+
+When the notebook opens in your browser, you will see the Notebook Dashboard, which will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started. The notebook can then be chosen by navigating in the Notebook Dashboard.
+
+For more information on how to run a specific jupyter notebook, you can go to running https://jupyter.readthedocs.io/en/latest/running.html#running
+
+<a href="http://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-    data/blob/master/Get_coin_data.html">HMTL preview of the notebook</a>
 
 ## Contributing
 
