@@ -7,25 +7,31 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 You need Python 3.x to run the following code.  You can have multiple Python
-versions (2.x and 3.x) installed on the same system without problems. Python needs to be first installed then SciPy, and finally Seaborn as there are dependencies on packages.
+versions (2.x and 3.x) installed on the same system without problems. Python needs to be first installed then SciPy, Beautiful Soup or the Jupyter Notebook in whichever order as they require Python to be installed at first.
 
 In Ubuntu, Mint and Debian you can install Python 3 like this:
 
-    $ sudo apt-get install python3 python3-pip
+    sudo apt-get install python3 python3-pip
 
 Alongside Python, the SciPy packages are also required. In Ubuntu and Debian, the SciPy ecosystem can be installed by:
 
-    $ sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+    sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
 
-Finally, the latest release of Seaborn visualization package, which can be installed with pip:
+The Beautiful Soup package is required for data parsing,and it can be installed for Python 3 by:
     
-    $ sudo apt-get install python3-bs4 (for Python 3)
+    sudo apt-get install python3-bs4 
+    
+Finally, the Jupyter Notebook which can be installed through Python's package manager:
 
+    pip3 install --upgrade pip
+    pip3 install jupyter
+    
 For other Linux flavors, OS X and Windows, packages are available at:
 
 http://www.python.org/getit/  
 https://www.scipy.org/install.html  
-
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
+https://jupyter.readthedocs.io/en/latest/install.html
 
 
 ## File descriptions
