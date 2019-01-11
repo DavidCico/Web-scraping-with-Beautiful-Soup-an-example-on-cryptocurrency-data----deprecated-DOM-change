@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 You need Python 3.x to run the following code.  You can have multiple Python
-versions (2.x and 3.x) installed on the same system without problems. Python needs to be first installed then SciPy, Beautiful Soup or the Jupyter Notebook in whichever order as they require Python to be installed at first.
+versions (2.x and 3.x) installed on the same system without problems. Python needs to be first installed then SciPy, Beautiful Soup or the Jupyter Notebook in whichever order, as they require Python to be installed.
 
 In Ubuntu, Mint and Debian you can install Python 3 like this:
 
@@ -38,7 +38,7 @@ https://jupyter.readthedocs.io/en/latest/install.html
 
 * 'Get_coin_data.ipynb' which is the Jupyter Notebook of the project, where all the explanations and steps are explained throughout the notebook.
 * 'Get_coin_data.html' which contains the html source code of the html conversion of the Jupyter Notebook.
-* '*.jpg' which contains the different pictures in the notebook.
+* The directory 'Pictures_notebook' that contains all the pictures used to write the current notebook.
 
 
 ### Running the files
@@ -61,7 +61,7 @@ When the notebook opens in your browser, you will see the Notebook Dashboard, wh
 
 For more information on how to run a specific jupyter notebook, you can go to the <a href="https://jupyter.readthedocs.io/en/latest/running.html#running">following link</a>/
 
-Another way to access the notebook is to consider look into its html version. To visualize the html page, we can use the https://htmlpreview.github.io/ webpage which allows to see html pages from GitHub.
+Another way to access the notebook is to look into its html version. To visualize the html page, we can use the https://htmlpreview.github.io/ webpage which allows to see html pages from GitHub.
 
 The <a href="https://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-data/blob/master/Get_coin_data.html">HMTL preview of the notebook</a> can then be directly accessed.
 
