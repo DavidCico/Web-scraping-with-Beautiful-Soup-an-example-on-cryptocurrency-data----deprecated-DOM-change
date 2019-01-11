@@ -63,7 +63,7 @@ For more information on how to run a specific jupyter notebook, you can go to th
 
 Another way to access the notebook is to consider look into its html version. To visualize the html page, we can use the https://htmlpreview.github.io/ webpage which allows to see html pages from GitHub.
 
-The <a href="http://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-    data/blob/master/Get_coin_data.html">HMTL preview of the notebook</a> can then be directly accessed.
+The <a href="https://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-data/blob/master/Get_coin_data.html">HMTL preview of the notebook</a> can then be directly accessed.
 
 ## Contributing
 
