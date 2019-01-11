@@ -36,16 +36,14 @@ https://jupyter.readthedocs.io/en/latest/install.html
 
 ## File descriptions
 
-* 'Get_coin_data.html' which is a univariate time series of the price history of the ETF.
-* 'Get_coin_data.html.ipynb' which contains the main procedure, as well as the data pre-processing of the xlsx file 'ETF_data.xlsx'
+* 'Get_coin_data.ipynb' which is the Jupyter Notebook of the project, where all the explanations and steps are explained throughout the notebook.
+* 'Get_coin_data.html' which contains the html source code of the html conversion of the Jupyter Notebook.
 * '*.jpg' which contains the different algorithms used for comparison.
 
 
 ### Running the program
 
 The code is ready to be used and just requires running the following command:
-
-    $ python Main.py
 
 The code is well commented and easy to understand. The different parameters calculated and used for the simulations are:
 ``` python
