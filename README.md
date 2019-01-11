@@ -19,13 +19,13 @@ Alongside Python, the SciPy packages are also required. In Ubuntu and Debian, th
 
 Finally, the latest release of Seaborn visualization package, which can be installed with pip:
     
-    $ pip install seaborn
+    $ sudo apt-get install python3-bs4 (for Python 3)
 
 For other Linux flavors, OS X and Windows, packages are available at:
 
 http://www.python.org/getit/  
 https://www.scipy.org/install.html  
-https://seaborn.pydata.org/installing.html#installing
+
 
 
 ## File descriptions
