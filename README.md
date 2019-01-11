@@ -47,7 +47,7 @@ The code is ready to be used and just requires running the following command:
 
 http://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-data/blob/master/Get_coin_data.html
 
-a href="http://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-data/blob/master/Get_coin_data.html">HMTL preview of the notebook</a>
+<a href="http://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-data/blob/master/Get_coin_data.html">HMTL preview of the notebook</a>
 
 ## Contributing
 
