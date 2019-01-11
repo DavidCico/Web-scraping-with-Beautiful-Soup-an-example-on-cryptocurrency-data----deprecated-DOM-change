@@ -59,7 +59,8 @@ It will then open your default web browser to this URL.
 
 When the notebook opens in your browser, you will see the Notebook Dashboard, which will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started. The notebook can then be chosen by navigating in the Notebook Dashboard.
 
-For more information on how to run a specific jupyter notebook, you can go to running https://jupyter.readthedocs.io/en/latest/running.html#running
+For more information on how to run a specific jupyter notebook, you can go to the <a href="https://jupyter.readthedocs.io/en/latest/running.html#running">following link</a>/
+
 
 <a href="http://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-    data/blob/master/Get_coin_data.html">HMTL preview of the notebook</a>
 
