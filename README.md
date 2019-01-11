@@ -38,7 +38,7 @@ https://jupyter.readthedocs.io/en/latest/install.html
 
 * 'Get_coin_data.ipynb' which is the Jupyter Notebook of the project, where all the explanations and steps are explained throughout the notebook.
 * 'Get_coin_data.html' which contains the html source code of the html conversion of the Jupyter Notebook.
-* '*.jpg' which contains the different algorithms used for comparison.
+* '*.jpg' which contains the different pictures in the notebook.
 
 
 ### Running the program
@@ -71,6 +71,7 @@ After all simulations have been run, different graphs are generated to analyse t
 <img src="https://github.com/DavidCico/Study-of-buy-and-hold-investment/blob/master/Example_Results/analytic_exp_gbm.png" width="500" height="350"> <img src="https://github.com/DavidCico/Study-of-buy-and-hold-investment/blob/master/Example_Results/Hists_fig2.jpg" width="512" height="512" >
 </p>
 
+http://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-data/blob/master/Get_coin_data.html
 
 ## Contributing
 
@@ -86,5 +87,3 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 See also the list of [contributors](https://github.com/DavidCico/Study-of-buy-and-hold-investment/graphs/contributors) who participated in this project.
 
-
-http://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-data/blob/master/Get_coin_data.html
