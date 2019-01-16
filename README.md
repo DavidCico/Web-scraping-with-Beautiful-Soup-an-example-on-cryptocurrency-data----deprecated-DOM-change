@@ -36,18 +36,18 @@ https://jupyter.readthedocs.io/en/latest/install.html
 
 ## File descriptions
 <ul>
-<li><p align="justify">'Get_coin_data.ipynb' which is the Jupyter Notebook of the project, where all the explanations and steps are explained throughout the notebook.</p></li>
+<li><div align="justify">'Get_coin_data.ipynb' which is the Jupyter Notebook of the project, where all the explanations and steps are explained throughout the notebook.</div></li>
 <li>'Get_coin_data.html' which contains the html source code of the html conversion of the Jupyter Notebook.</li>
 <li>The directory 'Pictures_notebook' that contains all the pictures used to write the current notebook.</li>
 </ul>
 
 ### Running the files
 
-The notebook 'Get_coin_data.ipynb' can be directly opened on GitHub, but only the Python code will be visible, as most of its content is written in HTML format. To open the notebook, it is better to run the Jupyter Notebook. This can be done by executing the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
+<p align="justify">The notebook 'Get_coin_data.ipynb' can be directly opened on GitHub, but only the Python code will be visible, as most of its content is written in HTML format. To open the notebook, it is better to run the Jupyter Notebook. This can be done by executing the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):</p>
 
     jupyter notebook
 
-This will print some information about the notebook server in your terminal, including the URL of the web application (by default, http://localhost:8888):
+<p align="justify">This will print some information about the notebook server in your terminal, including the URL of the web application (by default, http://localhost:8888):</p>
 
     $ jupyter notebook
     [I 08:58:24.417 NotebookApp] Serving notebooks from local directory: /Users/catherine
@@ -57,13 +57,13 @@ This will print some information about the notebook server in your terminal, inc
 
 It will then open your default web browser to this URL.
 
-When the notebook opens in your browser, you will see the Notebook Dashboard, which will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started. The notebook can then be chosen by navigating in the Notebook Dashboard.
+<p align="justify">When the notebook opens in your browser, you will see the Notebook Dashboard, which will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started. The notebook can then be chosen by navigating in the Notebook Dashboard.</p>
 
-For more information on how to run a specific jupyter notebook, you can go to the <a href="https://jupyter.readthedocs.io/en/latest/running.html#running">following link</a>.
+<p align="justify">For more information on how to run a specific jupyter notebook, you can go to the <a href="https://jupyter.readthedocs.io/en/latest/running.html#running">following link</a>.</p>
 
-Another way to access the notebook is to look into its html version. To visualize the html page, we can use the https://htmlpreview.github.io/ webpage which allows to see html pages from GitHub.
+<p align="justify">Another way to access the notebook is to look into its html version. To visualize the html page, we can use the https://htmlpreview.github.io/ webpage which allows to see html pages from GitHub.</p>
 
-The <a href="https://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-data/blob/master/Get_coin_data.html">HMTL preview of the notebook</a> can then be directly accessed.
+<p align="justify">The <a href="https://htmlpreview.github.io/?https://github.com/DavidCico/Web-scraping-with-Beautiful-Soup-an-example-on-cryptocurrency-data/blob/master/Get_coin_data.html">HMTL preview of the notebook</a> can then be directly accessed.</p>
 
 ## Contributing
 
