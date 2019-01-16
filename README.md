@@ -1,13 +1,13 @@
 # Web-scraping-with-Beautiful-soup-an-example-on-cryptocurrency-data
+<p align="justify">In this code, we harvest the historical data of cryptocurrency coins using Python and the Beautiful Soup library. Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.</p>
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+<p align="justify">These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.</p>
 
 ### Prerequisites
 
-You need Python 3.x to run the following code.  You can have multiple Python
-versions (2.x and 3.x) installed on the same system without problems. Python needs to be first installed then SciPy, Beautiful Soup or the Jupyter Notebook in whichever order, as they require Python to be installed.
+<p align="justify">You need Python 3.x to run the following code.  You can have multiple Python versions (2.x and 3.x) installed on the same system without problems. Python needs to be first installed then SciPy, Beautiful Soup or the Jupyter Notebook in whichever order, as they require Python to be installed.</p>
 
 In Ubuntu, Mint and Debian you can install Python 3 like this:
 
@@ -35,11 +35,11 @@ https://jupyter.readthedocs.io/en/latest/install.html
 
 
 ## File descriptions
-
-* 'Get_coin_data.ipynb' which is the Jupyter Notebook of the project, where all the explanations and steps are explained throughout the notebook.
-* 'Get_coin_data.html' which contains the html source code of the html conversion of the Jupyter Notebook.
-* The directory 'Pictures_notebook' that contains all the pictures used to write the current notebook.
-
+<ul>
+<li><p align="justify">'Get_coin_data.ipynb' which is the Jupyter Notebook of the project, where all the explanations and steps are explained throughout the notebook.</p></li>
+<li>'Get_coin_data.html' which contains the html source code of the html conversion of the Jupyter Notebook.</li>
+<li>The directory 'Pictures_notebook' that contains all the pictures used to write the current notebook.</li>
+</ul>
 
 ### Running the files
 
