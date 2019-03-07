@@ -36,9 +36,9 @@ https://jupyter.readthedocs.io/en/latest/install.html
 
 ## File descriptions
 <ul>
-<li><div align="justify">'Get_coin_data.ipynb' which is the Jupyter Notebook of the project, where all the explanations and steps are explained throughout the notebook.</div></li>
-<li>'Get_coin_data.html' which contains the html source code of the html conversion of the Jupyter Notebook.</li>
-<li>The directory 'Pictures_notebook' that contains all the pictures used to write the current notebook.</li>
+<li><div align="justify">'<em>Get_coin_data.ipynb</em>' which is the Jupyter Notebook of the project, where all the explanations and steps are explained throughout the notebook.</div></li>
+<li>'<em>Get_coin_data.html</em>' which contains the html source code of the html conversion of the Jupyter Notebook.</li>
+    <li>The directory '<em>Pictures_notebook</em>' that contains all the pictures used to write the current notebook.</li>
 </ul>
 
 ### Running the files
