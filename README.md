@@ -1,4 +1,4 @@
-# Web-scraping-with-Beautiful-soup-an-example-on-cryptocurrency-data
+# Web-scraping-with-Beautiful-soup-an-example-on-cryptocurrency-data (deprecated CMC changed their Document Object Model)
 <p align="justify">In this code, we harvest the historical data of cryptocurrency coins using Python and the Beautiful Soup library. Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.</p>
 
 ## Getting Started
